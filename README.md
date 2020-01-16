@@ -1,1 +1,1 @@
-- [LINK](https://liliyatar.github.io/tagsoft_task/)
+- [LINK](https://liliyatar.github.io/task_tagsoft/)
