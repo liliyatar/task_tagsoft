@@ -111,3 +111,10 @@ ul {
   margin-top: 40vh;
   font-size: 1.5em;
 }
+
+.character {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

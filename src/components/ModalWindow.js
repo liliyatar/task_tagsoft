@@ -7,15 +7,23 @@ const ModalWindow = ({ character, setModalValue, open }) => (
     onClose={() => setModalValue(false)}
     open={open}
   >
-    <Modal.Header>Add event</Modal.Header>
+    <Modal.Header>
+Details about the
+      {' '}
+      {character.name}
+    </Modal.Header>
     <Modal.Content image>
       <Image
         wrapped
         size="medium"
         src={character.image}
       />
-      <h1>{character.name}</h1>
-      <div>{`SPECIES:${character.species}`}</div>
+      <div className="character">
+        <h1>{character.name}</h1>
+        <div>{`SPECIES:${character.species}`}</div>
+        <div>{`STATUS:${character.status}`}</div>
+        <div>{`GENDER:${character.gender}`}</div>
+      </div>
     </Modal.Content>
   </Modal>
 );
@@ -29,6 +37,7 @@ ModalWindow.propTypes = {
     status: PropTypes.string.isRequired,
     species: PropTypes.string.isRequired,
     image: PropTypes.string,
+    gender: PropTypes.string,
   }).isRequired,
 };
 
