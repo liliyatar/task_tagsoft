@@ -61,8 +61,8 @@ const Pagination = ({ charactersCount, location }) => {
         </NavLink>
       </ul>
       <p>
-        {`Showing ${firstItemShown} to
-        ${lastItemShown} of ${charactersCount} entries`}
+        {`From ${firstItemShown} to
+        ${lastItemShown} of ${charactersCount}`}
       </p>
     </footer>
   );

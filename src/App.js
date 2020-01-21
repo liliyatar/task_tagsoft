@@ -57,24 +57,24 @@ class App extends React.Component {
       <div>
         <Menu pointing>
           <Menu.Item
-            name="home"
-            active={activeItem === 'home'}
+            name="characters"
+            active={activeItem === 'characters'}
             onClick={this.handleItemClick}
           />
           <Menu.Item
-            name="messages"
-            active={activeItem === 'messages'}
+            name="task2"
+            active={activeItem === 'task2'}
             onClick={this.handleItemClick}
           />
         </Menu>
         <div>
-          {activeItem === 'home' && charactersCount > 0 && (
+          {activeItem === 'characters' && charactersCount > 0 && (
             <>
               <CharactersTable />
               <Pagination />
             </>
           )}
-          {activeItem === 'messages' && (
+          {activeItem === 'task2' && (
             <>
               <Block />
             </>
