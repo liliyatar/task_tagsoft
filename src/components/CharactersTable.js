@@ -9,7 +9,6 @@ import Character from './Character';
 
 const CharactersTable = ({ characters, location }) => {
   const visibleCharacters = characters
-    .sort((a, b) => a.name.localeCompare(b.name))
     .filter((character, i) => (Math
       .floor(i / ITEMS_PER_PAGE) + 1 === +location.pathname.split('/')[1]));
 
