@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/task_tagsoft/static/css/main.ead7475e.chunk.css",
-    "main.js": "/task_tagsoft/static/js/main.ae53024c.chunk.js",
-    "main.js.map": "/task_tagsoft/static/js/main.ae53024c.chunk.js.map",
+    "main.css": "/task_tagsoft/static/css/main.7b732868.chunk.css",
+    "main.js": "/task_tagsoft/static/js/main.b3a91980.chunk.js",
+    "main.js.map": "/task_tagsoft/static/js/main.b3a91980.chunk.js.map",
     "runtime-main.js": "/task_tagsoft/static/js/runtime-main.f4b0c81d.js",
     "runtime-main.js.map": "/task_tagsoft/static/js/runtime-main.f4b0c81d.js.map",
     "static/js/2.b9f59fe5.chunk.js": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js",
     "static/js/2.b9f59fe5.chunk.js.map": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js.map",
     "index.html": "/task_tagsoft/index.html",
-    "precache-manifest.1e2b27a3a877ec4464997cfdbf8f767b.js": "/task_tagsoft/precache-manifest.1e2b27a3a877ec4464997cfdbf8f767b.js",
+    "precache-manifest.ec165a7911b6a501ce3ff1440de2ac5f.js": "/task_tagsoft/precache-manifest.ec165a7911b6a501ce3ff1440de2ac5f.js",
     "service-worker.js": "/task_tagsoft/service-worker.js",
-    "static/css/main.ead7475e.chunk.css.map": "/task_tagsoft/static/css/main.ead7475e.chunk.css.map",
+    "static/css/main.7b732868.chunk.css.map": "/task_tagsoft/static/css/main.7b732868.chunk.css.map",
     "static/js/2.b9f59fe5.chunk.js.LICENSE": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.f4b0c81d.js",
     "static/js/2.b9f59fe5.chunk.js",
-    "static/css/main.ead7475e.chunk.css",
-    "static/js/main.ae53024c.chunk.js"
+    "static/css/main.7b732868.chunk.css",
+    "static/js/main.b3a91980.chunk.js"
   ]
 }
