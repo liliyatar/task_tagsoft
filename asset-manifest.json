@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/task_tagsoft/static/css/main.7b732868.chunk.css",
-    "main.js": "/task_tagsoft/static/js/main.b3a91980.chunk.js",
-    "main.js.map": "/task_tagsoft/static/js/main.b3a91980.chunk.js.map",
+    "main.js": "/task_tagsoft/static/js/main.cd68a8ce.chunk.js",
+    "main.js.map": "/task_tagsoft/static/js/main.cd68a8ce.chunk.js.map",
     "runtime-main.js": "/task_tagsoft/static/js/runtime-main.f4b0c81d.js",
     "runtime-main.js.map": "/task_tagsoft/static/js/runtime-main.f4b0c81d.js.map",
     "static/js/2.b9f59fe5.chunk.js": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js",
     "static/js/2.b9f59fe5.chunk.js.map": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js.map",
     "index.html": "/task_tagsoft/index.html",
-    "precache-manifest.ec165a7911b6a501ce3ff1440de2ac5f.js": "/task_tagsoft/precache-manifest.ec165a7911b6a501ce3ff1440de2ac5f.js",
+    "precache-manifest.f4ace74417c26772f4120972c6f8b927.js": "/task_tagsoft/precache-manifest.f4ace74417c26772f4120972c6f8b927.js",
     "service-worker.js": "/task_tagsoft/service-worker.js",
     "static/css/main.7b732868.chunk.css.map": "/task_tagsoft/static/css/main.7b732868.chunk.css.map",
     "static/js/2.b9f59fe5.chunk.js.LICENSE": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f4b0c81d.js",
     "static/js/2.b9f59fe5.chunk.js",
     "static/css/main.7b732868.chunk.css",
-    "static/js/main.b3a91980.chunk.js"
+    "static/js/main.cd68a8ce.chunk.js"
   ]
 }

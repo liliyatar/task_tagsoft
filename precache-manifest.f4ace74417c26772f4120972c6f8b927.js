@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "698bc5a020bf519b4c0756af7262568e",
+    "revision": "076c5765ab0aafc21d2f794cf154a22d",
     "url": "/task_tagsoft/index.html"
   },
   {
-    "revision": "1d7412d8033c3c3944a9",
+    "revision": "748cbf04701425e528e7",
     "url": "/task_tagsoft/static/css/main.7b732868.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/task_tagsoft/static/js/2.b9f59fe5.chunk.js.LICENSE"
   },
   {
-    "revision": "1d7412d8033c3c3944a9",
-    "url": "/task_tagsoft/static/js/main.b3a91980.chunk.js"
+    "revision": "748cbf04701425e528e7",
+    "url": "/task_tagsoft/static/js/main.cd68a8ce.chunk.js"
   },
   {
     "revision": "9be192e5922ab8533fb1",
