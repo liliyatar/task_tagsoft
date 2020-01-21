@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/task_tagsoft/precache-manifest.f5308a77bdb6d698b2fc3f46a58bcd82.js"
+  "/task_tagsoft/precache-manifest.8a01ec1402d5bab37cf0fb180bb82278.js"
 );
 
 self.addEventListener('message', (event) => {
