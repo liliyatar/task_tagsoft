@@ -6,7 +6,6 @@ import ProgressBar from './ProgressBar';
 const ProgressBarContainer = styled.div`
   display: flex;
   flex-direction: row;
-  z-index: 1;
 `;
 
 const Block = () => {
@@ -20,6 +19,7 @@ const Block = () => {
 
   return (
     <div className="wrapper">
+      <div className="box-number">25</div>
       <div className="block">
         <div className="block__heading">Обучение по продажам</div>
         <div className="block__text">Вы сделали 13 продаж и заработали:</div>

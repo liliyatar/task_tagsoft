@@ -15,6 +15,7 @@ const ModalWindow = ({ character, setModalValue, open }) => (
         src={character.image}
       />
       <h1>{character.name}</h1>
+      <div>{`SPECIES:${character.species}`}</div>
     </Modal.Content>
   </Modal>
 );
@@ -26,6 +27,7 @@ ModalWindow.propTypes = {
     id: PropTypes.string.isRequired,
     name: PropTypes.string.isRequired,
     status: PropTypes.string.isRequired,
+    species: PropTypes.string.isRequired,
     image: PropTypes.string,
   }).isRequired,
 };

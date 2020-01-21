@@ -5,12 +5,17 @@
 
 .wrapper {
   position: relative;
-  width: 286px;
-  height: 200px;
+  width: 280px;
+  height: 195px;
   background-color: white;
   top: 50%;
   left: 50%;
   margin: 100px 0 0 -143px;
+  border: 1px solid #e8e8e8;
+  border-radius: 10px;
+  box-shadow: 0 0 0 1px #f7f7f7,
+    0 6px 15px -7px rgba(0,0,0,0.68)
+;
 }
 
 .wrapper__progress-bar {
@@ -60,9 +65,25 @@
   }
 }
 
+.box-number {
+  position: relative;
+  left: 93%;
+  z-index: 1 !important;
+  padding: 5px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px #f7f7f7,
+    0 6px 15px -7px rgba(0,0,0,0.68);
+  background: linear-gradient(to bottom, #9df487,  #279222);
+}
+
 .block {
-  border: 1px solid #d0e6f5;
-  background-color: white;
+  border: 2px solid #d0e6f5;
   position: absolute;
   width: 270px;
   height: 182px;

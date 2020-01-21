@@ -8,7 +8,7 @@ const Track = styled.div`
   height: 15px;
   margin-bottom: 13px;
   background-color: white;
-  border: 1px solid #6bccf9;
+  border: 1px solid #6bccf9; 
 `;
 
 const Thumb = styled.div`
